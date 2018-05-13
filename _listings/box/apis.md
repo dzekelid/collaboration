@@ -34,19 +34,16 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/collaboration/master/_listings/box/groups-group-id-collaborations-get.md
-- name: Box Get Collaboration
-  description: "Used to get information about a single collaboration. All collaborations
-    for a single folder can be retrieved through GET /folders/{id}/collaborations.
-    A complete list of the user\u2019s pending collaborations can also be retrieved."
+- name: Box Update Collaboration
+  description: Used to edit an existing collaboration. Descriptions of the various
+    roles can be found here.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/box1200x630.jpg
   humanURL: http://box.com
   baseURL: https://api.box.com//2.0
   tags: Collaboration
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/box/collaborations-collab-id-get.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/box/collaborations-collab-id-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/box/collaborations-collab-id-put.md
 x-common:
 - type: x-base
   url: https://api.box.com/
