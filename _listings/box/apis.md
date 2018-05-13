@@ -34,17 +34,18 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/collaboration/master/_listings/box/groups-group-id-collaborations-get.md
-- name: Box Delete Collaboration
-  description: Used to delete a single collaboration.
+- name: Box Get Collaborations for Group
+  description: Retrieves all of the group collaborations for a given group. Note this
+    is only available to group admins.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/box1200x630.jpg
   humanURL: http://box.com
   baseURL: https://api.box.com//2.0
   tags: Collaboration
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/box/collaborations-collab-id-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/box/groups-group-id-collaborations-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/box/collaborations-collab-id-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/box/groups-group-id-collaborations-get-postman.md
 x-common:
 - type: x-base
   url: https://api.box.com/
