@@ -1,0 +1,622 @@
+{
+	"name": "Streadata.io API Gallery - Collaboration",
+	"description": "This is a repository of collaboration APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/collaboration.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://collaboration.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Box",
+			"x-api-slug": "box",
+			"description": "Box is changing how you manage content across your business from simple file sharing to building custom apps.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/162-box.jpg",
+			"humanURL": "http://box.com",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/box/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Active Collab",
+			"x-api-slug": "active-collab",
+			"description": "Looking for state-of-the-art project management tool? Look no further, ActiveCollab is your next logical step towards better project workflow. Get it now!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/303-active-collab.jpg",
+			"humanURL": "http://www.activecollab.com",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/active-collab/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Huddle",
+			"x-api-slug": "huddle",
+			"description": "Team collaboration & project management software for enterprise and government. Manage tasks, projects and documents simply in secure cloud workspaces.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/423-huddle.jpg",
+			"humanURL": "http://www.huddle.com",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/huddle/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Producteev",
+			"x-api-slug": "producteev",
+			"description": "Producteev is the worlds best task management software for teams. Its more than an online to-do list and has helped hundreds of thousands of teams get work done faster with better results. Learn more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/463-producteev.jpg",
+			"humanURL": "https://www.producteev.com/",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/producteev/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Twiddla!",
+			"x-api-slug": "twiddla",
+			"description": "Twiddla is an Online Whiteboard for the Modern Classroom.  Mark up websites, graphics, and photos, or start brainstorming on a blank canvas.  Voice and Text chat too!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/507-twiddla!.jpg",
+			"humanURL": "http://www.twiddla.com",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/twiddla/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "crowdin",
+			"x-api-slug": "crowdin",
+			"description": "Crowdin is a localization project management platfom and translation tool for developers and website owners. We make it easy to work with content being translated using our collaboration platform.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/567-crowdin.jpg",
+			"humanURL": "https://crowdin.net/",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/crowdin/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Cisco WebEx",
+			"x-api-slug": "cisco-webex",
+			"description": "Cisco Webex is the leading enterprise solution for video conferencing & web conferencing today. This secure software-based platform for video & audio conferencing, group messaging & webinars helps organizations be more productive.Participants can join ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/730-cisco-webex.jpg",
+			"humanURL": "https://webex.com",
+			"baseURL": "https://api.ciscospark.com//v1",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/cisco-webex/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GoToMeeting",
+			"x-api-slug": "gotomeeting",
+			"description": "Citrix enables business mobility through the secure delivery of apps and data to any device on any network.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/731-gotomeeting.jpg",
+			"humanURL": "https://citrixonline.com",
+			"baseURL": "https://api.citrixonline.com//identity/v1",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/gotomeeting/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Flowdock",
+			"x-api-slug": "flowdock",
+			"description": "Teams using Flowdock stay up-to-date, react in seconds and never forget anything.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/789-flowdock.jpg",
+			"humanURL": "https://www.flowdock.com",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/flowdock/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pidoco",
+			"x-api-slug": "pidoco",
+			"description": "Create clickable wireframes for websites and mobile apps with our online wireframing tool. Collaboration and exports for easy UI design and UX prototyping.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/893-pidoco.jpg",
+			"humanURL": "https://pidoco.com",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/pidoco/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Planbox",
+			"x-api-slug": "planbox",
+			"description": "The pioneering platform for agile work innovation - collaborative innovation management software and agile work management.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/895-planbox.jpg",
+			"humanURL": "http://www.planbox.com",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/planbox/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Podio",
+			"x-api-slug": "podio",
+			"description": "Streamline and sync your teams projects and workflow with Podio. Experience why PC Mag named Podio Best Online Collaboration Software in 2016. Start for free!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/900-podio.jpg",
+			"humanURL": "https://podio.com",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/podio/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Blackboard",
+			"x-api-slug": "blackboard",
+			"description": "Blackboard focuses on technology and services to help students learn, not just one way, but their own way. Learn more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/993-blackboard.jpg",
+			"humanURL": "http://www.blackboard.com/",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/blackboard/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ONLYOFFICE",
+			"x-api-slug": "onlyoffice",
+			"description": "ONLYOFFICE is an online office suite integrated with a collaboration platform to manage documents, projects, team and customer relations in one place.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1175-teamlab.jpg",
+			"humanURL": "http://api.teamlab.com/",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/onlyoffice/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Wrike",
+			"x-api-slug": "wrike",
+			"description": "Wrike is an online project management software that gives you full visibility and control over your tasks. With the help of our product, managing projects becomes easier. Our project management tools include time tracking, project planning and organiza...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1222-wrike.jpg",
+			"humanURL": "http://www.wrike.com",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/wrike/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Teepin",
+			"x-api-slug": "teepin",
+			"description": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_teepin.jpg",
+			"humanURL": "https://www.teepin.com",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/teepin/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Ten Hands",
+			"x-api-slug": "ten-hands",
+			"description": "Simple, free, easy video collaboration. Check out http://t.co/mQQiH8RiSl today.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1484-ten-hands.jpg",
+			"humanURL": "https://www.tenhands.net/developer/index.htm",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/ten-hands/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Cisco Unity Connection Messaging Interface",
+			"x-api-slug": "cisco-unity-connection-messaging-interface",
+			"description": "The Cisco Unity Connection Messaging Interface (CUMI) is a messaging API for Cisco Unity Connection that has been designed to be stable and simple to use. It is based on leading industry standards for web-based API development, and provides access to a wide set of Connection messaging functionality.",
+			"image": "",
+			"humanURL": "http://docwiki.cisco.com/wiki/Cisco_Unity_Connection_Messaging_Interface_%28CUMI%29_API",
+			"baseURL": "https://api.cisco.com//",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/cisco-unity-connection-messaging-interface/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Podling",
+			"x-api-slug": "podling",
+			"description": "",
+			"image": "",
+			"humanURL": "http://docs.podling.com/",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/podling/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Breeze",
+			"x-api-slug": "breeze",
+			"description": "Breeze is a simple web-based project management tool. Agile project management with tasks, calendars, discussions, time tracking, to-dos, files and reports.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1768-breeze.jpg",
+			"humanURL": "http://breeze.pm",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/breeze/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Deveo",
+			"x-api-slug": "deveo",
+			"description": "Discover why enterprise teams powered by Perforce have freedom to innovate at unrivaled scale.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1833-deveo.jpg",
+			"humanURL": "https://deveo.com",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/deveo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Screenleap",
+			"x-api-slug": "screenleap",
+			"description": "Free screen sharing using Screenleap. The fast, simple, and free way to share your screen instantly for online meetings, sales demos, and collaboration.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1901-screenleap.jpg",
+			"humanURL": "http://www.screenleap.com/",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/screenleap/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "The Freedom Registry",
+			"x-api-slug": "the-freedom-registry",
+			"description": "",
+			"image": "",
+			"humanURL": "http://developer.freedomregistry.org/",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/the-freedom-registry/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Redbooth",
+			"x-api-slug": "redbooth",
+			"description": "Redbooth is easy-to-use online project management software for high-performing teams. Get started for free with collaboration tools and task management.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/10326-redbooth.jpg",
+			"humanURL": "https://redbooth.com",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/redbooth/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Quip",
+			"x-api-slug": "quip",
+			"description": "Quip changes the way teams work together. Quip combines documents, spreadsheets, checklists, and chat in a simple interface that makes collaboration easy. With Quip, you work with people, not files. Thousands of companies from a wide range of industries have adopted Quip to make communication and collaboration more efficient.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/quip-logo.png",
+			"humanURL": "https://quip.com/",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/quip/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Guru",
+			"x-api-slug": "guru",
+			"description": "Guru is reinventing the way your team captures knowledge, providing access to verified information from experts on your team: where you work and when you need it most.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/guru-logo.png",
+			"humanURL": "https://www.getguru.com/",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/guru/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Favro",
+			"x-api-slug": "favro",
+			"description": "Favro is the planning and collaboration app for organizational flow. It helps organizations do what they excel at - making products and services that change the game. Fast.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28231-www-favro-com.jpg",
+			"humanURL": "https://www.favro.com",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/favro/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SAP",
+			"x-api-slug": "sap",
+			"description": "Get software and technology solutions from SAP, the leader in business applications.  Run simple with the best in cloud, analytics, mobile and IT solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28252-www-sap-com.jpg",
+			"humanURL": "https://www.sap.com/index.html",
+			"baseURL": "https://sandbox.api.sap.com//translationhub/api/v1",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/sap/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ServiceNow",
+			"x-api-slug": "servicenow",
+			"description": "ServiceNows cloud platform streamlines how work gets done. Our enterprise automation solutions create great employee and customer experiences. Everyone deserves great experiences at work. Now routine tasks happen in a snap, and complex projects flow smoothly. With the Now Platform&reg;, anyone can work effortlessly across teams, silos, and systems. When people work better, business works better.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28402-developer-servicenow-com.jpg",
+			"humanURL": "https://www.servicenow.com/",
+			"baseURL": "https:///",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/servicenow/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Trello",
+			"x-api-slug": "trello",
+			"description": "Trusted by millions, Trello is the visual collaboration tool that creates a shared perspective on any project. Trello&rsquo;s boards, lists and cards enable you to organize and prioritize your personal and work life in a fun, flexible and rewarding way.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png",
+			"humanURL": "http://trello.com",
+			"baseURL": "https://trello.com//1",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/trello/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "uebermaps",
+			"x-api-slug": "uebermaps",
+			"description": "uebermaps is a platform for everyone to create and share maps with your favorite spots. uebermaps are interactive maps that enable people to collect interesting places, collaborate, upload photos and share your public or private maps with your friends and family. If you use uebermaps for your mapping community, as a tour guide for friends or as your unlimited geo storage is up to you.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/uebermaps.png",
+			"humanURL": "http://uebermaps.com",
+			"baseURL": "https://uebermaps.com//api/v2",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/uebermaps/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CollabNet",
+			"x-api-slug": "collabnet",
+			"description": "CollabNet is a software development and delivery solutions provider headquartered in South San Francisco, California.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28840-community-versionone-com.jpg",
+			"humanURL": "https://www.collab.net/",
+			"baseURL": "https:////ctfrest/foundation/v1",
+			"tags": "Collaboration",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/collabnet/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Collaboration",
+	"include": [
+		{
+			"name": "Box",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/box/apis.yaml"
+		},
+		{
+			"name": "Active Collab",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/active-collab/apis.yaml"
+		},
+		{
+			"name": "Huddle",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/huddle/apis.yaml"
+		},
+		{
+			"name": "Producteev",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/producteev/apis.yaml"
+		},
+		{
+			"name": "Twiddla!",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/twiddla/apis.yaml"
+		},
+		{
+			"name": "crowdin",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/crowdin/apis.yaml"
+		},
+		{
+			"name": "Cisco WebEx",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/cisco-webex/apis.yaml"
+		},
+		{
+			"name": "GoToMeeting",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/gotomeeting/apis.yaml"
+		},
+		{
+			"name": "Flowdock",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/flowdock/apis.yaml"
+		},
+		{
+			"name": "Pidoco",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/pidoco/apis.yaml"
+		},
+		{
+			"name": "Planbox",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/planbox/apis.yaml"
+		},
+		{
+			"name": "Podio",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/podio/apis.yaml"
+		},
+		{
+			"name": "Blackboard",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/blackboard/apis.yaml"
+		},
+		{
+			"name": "ONLYOFFICE",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/onlyoffice/apis.yaml"
+		},
+		{
+			"name": "Wrike",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/wrike/apis.yaml"
+		},
+		{
+			"name": "Teepin",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/teepin/apis.yaml"
+		},
+		{
+			"name": "Ten Hands",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/ten-hands/apis.yaml"
+		},
+		{
+			"name": "Cisco Unity Connection Messaging Interface",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/cisco-unity-connection-messaging-interface/apis.yaml"
+		},
+		{
+			"name": "Podling",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/podling/apis.yaml"
+		},
+		{
+			"name": "Breeze",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/breeze/apis.yaml"
+		},
+		{
+			"name": "Deveo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/deveo/apis.yaml"
+		},
+		{
+			"name": "Screenleap",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/screenleap/apis.yaml"
+		},
+		{
+			"name": "The Freedom Registry",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/the-freedom-registry/apis.yaml"
+		},
+		{
+			"name": "Redbooth",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/redbooth/apis.yaml"
+		},
+		{
+			"name": "Quip",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/quip/apis.yaml"
+		},
+		{
+			"name": "Guru",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/guru/apis.yaml"
+		},
+		{
+			"name": "Favro",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/favro/apis.yaml"
+		},
+		{
+			"name": "SAP",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/sap/apis.yaml"
+		},
+		{
+			"name": "ServiceNow",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/servicenow/apis.yaml"
+		},
+		{
+			"name": "Trello",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/trello/apis.yaml"
+		},
+		{
+			"name": "uebermaps",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/uebermaps/apis.yaml"
+		},
+		{
+			"name": "CollabNet",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/collabnet/apis.yaml"
+		}
+	]
+}

@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/900-podio.
 x-kinRank: "7"
 x-alexaRank: "6843"
 tags: Collaboration
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/podio/apis.md
 specificationVersion: "0.14"
 apis: []

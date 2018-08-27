@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/895-planbo
 x-kinRank: "7"
 x-alexaRank: "679273"
 tags: Collaboration
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/collaboration/master/_listings/planbox/apis.md
 specificationVersion: "0.14"
 apis: []
